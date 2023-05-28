@@ -1,1 +1,1 @@
-# Iafsm--Classification
+# Titanic Survival Prediction
